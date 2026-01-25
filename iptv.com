@@ -203,3 +203,5 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Indian Movie" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
 http://116.90.120.152:8000/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="Tamil Movie" tvg-logo="https://upload.wikimediogo_%282025%29.png",GOLD MINE
+https://cdn-2.pishow.tv/live/1461/master.m3u8
