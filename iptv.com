@@ -197,5 +197,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",RUPOSHI BANGLA
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",RUPOSHI BANGLA
 https://cdn-4.pishow.tv/live/1039/master.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",SANGEET BANGLA
+https://cdn-4.pishow.tv/live/1143/master.m3u8
