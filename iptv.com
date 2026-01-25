@@ -5,7 +5,7 @@
 https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1769343067&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7ee8bdb4f11eb9ffc9f13bda814ae363
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="News",Somoy News TV
 https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1769343090&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=58abb36d43e89349f6d959efe6fa63d4
-#EXTINF:-1 EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="News",Ekattor TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="News",Ekattor TV
 https://tvsen6.aynascope.net/ekattorbdtv/index.m3u8?e=1769343094&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c33cae0fe1d254ab7295214d28ee79e6
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
