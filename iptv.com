@@ -206,3 +206,5 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 http://116.90.120.152:8000/play/a0hq/index.m3u8
 #EXTINF:-1 group-title="Tamil Movie" tvg-logo="https://upload.wikimediogo_%282025%29.png",GOLD MINE
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 group-title="Star Plus HD" tvg-logo="https://upload.wikimediogo_%282025%29.png",GOLD MINE
+https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
