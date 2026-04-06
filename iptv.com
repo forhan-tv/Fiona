@@ -204,23 +204,23 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Indian Movie" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
 http://116.90.120.152:8000/play/a0hq/index.m3u8
-#EXTINF:-1 group-title="FIFA "tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA "tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-660bfc032433010008def35a.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-660bfc7b2433010008def3e3.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",STAR GOLD
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimediogo_%282025%29.png",FIFA WORLD
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Movie" tvg-logo="https://upload.wikimediogo_%282025%29.png",GOLD MINE
 https://cdn-2.pishow.tv/live/1461/master.m3u8
